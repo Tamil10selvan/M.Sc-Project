@@ -1,5 +1,5 @@
 # M.Sc-Project
-ENCRYPTION IN CRYPTOGRAPHY
+ENCRYPTION IN CRYPTOGRAPHY -
 With advancement in technology it becomes more easier to en-
 crypt data, with neural networks it becomes easier to keep data safe.
 Neural networks of Google Brain have worked out to create encryp-
